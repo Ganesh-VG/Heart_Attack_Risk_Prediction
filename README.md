@@ -62,10 +62,4 @@ The ensemble model using Random Forest and LightGBM achieved the best performanc
 - This project was inspired by the need to better understand and predict heart attack risks using machine learning.
 - Special thanks to the open-source community and the authors of the libraries used in this project.
 
-## Contact
-For any questions or feedback, please contact [Your Name] at [Your Email].
-
----
-
-**Note**: Replace placeholders like `yourusername`, `Your Name`, and `Your Email` with actual information.
 
