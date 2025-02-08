@@ -1,5 +1,8 @@
 # Heart Attack Risk Prediction Project
 
+![image](https://github.com/user-attachments/assets/9daa6ecc-8e3b-4ca8-9690-6c87f882f2af)
+
+
 ## Project Overview
 This project aims to predict the risk of heart attacks using machine learning models. The dataset includes various features such as age, BMI, cholesterol levels, and lifestyle factors (smoking, alcohol intake, and physical activity). We employed multiple machine learning techniques, including ensemble methods like Random Forest and LightGBM, to achieve the best predictive performance.
 
