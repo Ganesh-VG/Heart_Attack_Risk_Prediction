@@ -15,6 +15,9 @@ The dataset contains anonymized patient information with the following key featu
 - **Lifestyle Factors**: Smoking, Alcohol Intake, Physical Activity
 - **Target Variable**: Presence or absence of heart disease
 
+![Boxplot](https://github.com/user-attachments/assets/59874a41-1888-487a-9456-4abd0dcdd5c4)
+
+
 ## Models Used
 - Random Forest Classifier
 - LightGBM Classifier
@@ -26,8 +29,14 @@ The dataset contains anonymized patient information with the following key featu
 - **Recall**: 73%
 - **F1 Score**: 72%
 
+![Model Metrix](https://github.com/user-attachments/assets/c73a9130-7732-4a7d-991d-0ce80d254d0a)
+
+
 ## Feature Importance
 Feature importance analysis revealed that BMI, MAP, and age are the most influential predictors of heart disease risk. Lifestyle factors like smoking, alcohol intake, and physical activity had lower importance but are still relevant.
+
+![Feature Importance](https://github.com/user-attachments/assets/27cbaedb-0ec9-46ed-8119-65c9530f3f1e)
+
 
 ## Conclusion
 The ensemble model using Random Forest and LightGBM achieved the best performance, with balanced accuracy, precision, recall, and F1 scores. The results indicate that BMI, MAP, and age are critical predictors of heart attack risk.
